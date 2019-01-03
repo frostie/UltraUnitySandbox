@@ -56,4 +56,4 @@ Moves player object from left to right using mouse pointer direction:
         paddlePos.x = Mathf.Clamp(mousePosInUnits, minX, maxX);
         transform.position = paddlePos;
 	}
-}
+    }
