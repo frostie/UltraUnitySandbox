@@ -39,7 +39,6 @@ Moves player object from left to right using mouse pointer direction:
 
     public class Paddle : MonoBehaviour {
 
-    // Configuration Parameters
     [SerializeField] float screenWidthInUnits = 16f;
     [SerializeField] float minX = 1.28f;
     [SerializeField] float maxX = 14.71f;
