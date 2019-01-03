@@ -44,11 +44,6 @@ Moves player object from left to right using mouse pointer direction:
     [SerializeField] float minX = 1.28f;
     [SerializeField] float maxX = 14.71f;
 
-	void Start () 
-    {
-		
-	}
-	
 	void Update () 
     {
         float mousePosInUnits = Input.mousePosition.x / Screen.width * screenWidthInUnits;
