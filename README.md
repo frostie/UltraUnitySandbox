@@ -33,11 +33,11 @@ Ensures game object is not destroyed when transitioning to next scene:
 ## transform.position
 Moves paddle from left to right using mouse pointer direction:
 
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+    using System.Collections;
+    using System.Collections.Generic;
+    using UnityEngine;
 
-public class Paddle : MonoBehaviour {
+    public class Paddle : MonoBehaviour {
 
     // Configuration Parameters
     [SerializeField] float screenWidthInUnits = 16f;
