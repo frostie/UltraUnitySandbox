@@ -8,7 +8,7 @@ Converts an int to a string:
     // Where textField = TMPro text box; text = text component of textField; myInt = an int variable
         
 ## FindObjectOfType<>()
-Allows an object to access another class:
+Allows an object to access an object from another class:
 
     private void Start()
     {
