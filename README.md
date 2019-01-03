@@ -28,4 +28,4 @@ Sets time scale / game speed:
 ## DontDestroyOnLoad()
 Ensures game object is not destroyed when transitioning to next scene:
 
-            DontDestroyOnLoad(gameObject);
+	DontDestroyOnLoad(gameObject);
