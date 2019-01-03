@@ -31,7 +31,7 @@ Ensures game object is not destroyed when transitioning to next scene:
 	DontDestroyOnLoad(gameObject);
 
 ## transform.position
-Moves paddle from left to right using mouse pointer direction:
+Moves player object from left to right using mouse pointer direction:
 
     using System.Collections;
     using System.Collections.Generic;
