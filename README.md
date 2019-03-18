@@ -1,5 +1,5 @@
 # UltraUnitySandbox
-A repository for some important game development algorithms.
+A repository for some important game development classes, methods, and algorithms.
 
 ## ToString()
 Converts an int to a string:
